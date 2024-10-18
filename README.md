@@ -1,5 +1,5 @@
 # lsp_lines.nvim
-For of Lsp_Lines to fix the alignment issue when displaying multiple error.
+Fork of Lsp_Lines to fix the alignment issue when displaying multiple errors.
 
 # Original repo:
 
